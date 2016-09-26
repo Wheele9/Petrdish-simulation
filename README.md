@@ -28,16 +28,19 @@ for i in range(simulStep):
 ```
 
 You run the simulation, by calling evolve(), spread(), and age() methods, after each step you can watch the current state of the simulation
-
+```python
 eColi.showBacMap()
+```
 
 You can see the resistance values in the petriDish
-
+```python
 eColi.showAgeMap(pretty=False)
+```
 
 You can see the age distribution between the cells
-
+```python
 eColi.saveVideo()
+```
 
 You can save a video about your experiment.
 
