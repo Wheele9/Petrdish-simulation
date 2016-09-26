@@ -8,7 +8,7 @@ I watched this video, where they put a weak bacteria at the edge of a giant petr
 after 11 days the bacteria evolved into something which was able to survive the conditions
 of high antibiotics density.
 
-## API usage
+## API
 ```python
 petriDish = makePetriDish(10,4,30)
 eColi=bacteria(petriDish, 0.2)
@@ -76,7 +76,7 @@ You can see the ageMap, which indicates the routes of spreading
 
 ![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/full.png)
 
-## Motivation
+## Usage
 
 You can download this simulation, and open it in ipython. click through the  steps, and see the results. If you dont know have python, or ipython installed the easiest way to get it through
 www.anaconda.com/download. I suggest python3.
