@@ -8,7 +8,7 @@ I watched this video, where they put a weak bacteria at the edge of a giant petr
 after 11 days the bacteria evolved into something which was able to survive the conditions
 of high antibiotics density.
 
-## Code Example
+## API usage
 
 petriD = petri(10,4,30)
 eColi=bacteria(petriD, 0.2)
@@ -43,6 +43,31 @@ eColi.saveVideo()
 ```
 
 You can save a video about your experiment.
+
+## Example
+```python
+petriD = petri(10,4,30)
+eColi=bacteria(petriD, 0.2)
+```
+
+I created a petri dish and a bacteria. After 3 simulation steps, the bacteria started to spread
+
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/startstospread.png)
+
+After 50 steps, a new mutant apperad, which was strong enough to spread in the new, hader environment.
+
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/mutant2.png)
+
+After couple of hundred steps, the bacteria reached the 4th sector.
+
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/blu4sec.png)
+
+After about 1000 steps, the simulation finished, all the bacteria died, they were unable to break
+into the final cell with theese starting conditions this time.
+
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/4secdeath.png)
+
+
 
 ## Motivation
 
