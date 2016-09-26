@@ -1,5 +1,7 @@
 # Simulation of bacterias evolving resistance over time
 
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/mutant.png)
+
 ## Synopsis
 
 I watched this video, where they put a weak bacteria at the edge of a giant petri dish,
