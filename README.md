@@ -54,7 +54,7 @@ I created a petri dish and a bacteria. After 3 simulation steps, the bacteria st
 
 ![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/startstospread.png)
 
-After 50 steps, a new mutant apperad, which was strong enough to spread in the new, hader environment.
+After 50 steps, a new mutant apperad, which was strong enough to spread in the new, harder environment.
 
 ![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/mutant2.png)
 
@@ -73,8 +73,7 @@ Other times the virus spreads totally
 
 You can see the ageMap, which indicates the routes of spreading
 
-![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/full
-.png)
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/full.png)
 
 ## Motivation
 
