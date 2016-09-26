@@ -79,7 +79,7 @@ You can see the ageMap, which indicates the routes of spreading
 ## Usage
 
 You can download this simulation, and open it in ipython. click through the  steps, and see the results. If you dont know have python, or ipython installed the easiest way to get it through
-www.anaconda.com/download. I suggest python3.
+https://www.continuum.io/downloads . I suggest python3.
 Navigate to the repostiory folder, open a comand window/shell and type:
 
 
