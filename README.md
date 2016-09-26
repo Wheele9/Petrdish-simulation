@@ -9,10 +9,10 @@ after 11 days the bacteria evolved into something which was able to survive the 
 of high antibiotics density.
 
 ## API usage
-
+```python
 petriD = petri(10,4,30)
 eColi=bacteria(petriD, 0.2)
-
+```
 You can create a petri dish, by giving its sectorlength, sectornumber, and width, the total 
 length will be sectorlength*length.
 You instantiate a virus, by giving him a petri dish, and a starting resistance.
@@ -67,7 +67,14 @@ into the final cell with theese starting conditions this time.
 
 ![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/4secdeath.png)
 
+Other times the virus spreads totally
 
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/fullresistance.png)
+
+You can see the ageMap, which indicates the routes of spreading
+
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/full
+.png)
 
 ## Motivation
 
