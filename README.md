@@ -78,6 +78,20 @@ You can see the ageMap, which indicates the routes of spreading
 
 ## Motivation
 
+You can download this simulation, and open it in ipython. click through the  steps, and see the results. If you dont know have python, or ipython installed the easiest way to get it through
+www.anaconda.com/download. I suggest python3.
+Navigate to the repostiory folder, open a comand window/shell and type:
+
+
+```
+ipython notebook
+```
+
+Select the petrydish.ipynb and you are ready to go. If you have any question, feel free to contact me.
+
+
+## Motivation
+
 I created this project for fun, fork it, play with it.You can create your own petri dish, with different size, and a antibiotics dispersion, you can
 tune the parameters of the virus, such as lifespan, mutability, starting resistance and see, that in your case it spreads the whole petri dish, or dies once.
 
