@@ -1,6 +1,6 @@
 # Simulation of bacterias evolving resistance over time
 
-![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/mutant.png)
+![alt tag](https://github.com/Wheele9/Petrdish-simulation/blob/master/images/2mutant.png)
 
 ## Synopsis
 
